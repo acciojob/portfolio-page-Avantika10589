@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+
+#skills{
+	background-color:violet
+}
+
+#project{
+	background-color:yellowgreen;
+
+}
+
+#image{
+	width:300px
+}
+
+h1{
+	font-style : italic;
+	text-decoration:underline;
+	background-color : aqua;
+}
+
+
+
